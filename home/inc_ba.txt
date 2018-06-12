@@ -1,0 +1,22 @@
+<table width="388" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td><img src="/log/ei/home/branding/boegetrae.gif" width="258" height="200"></td>
+<td valign="top" class="homeBigbox"> 
+<table width="100%" border="0" cellspacing="0" cellpadding="7">
+<tr> 
+<td class="home"><span class="homeHeader">Tema: Det offentlige Danmark og Agenda 21</span><br>
+Hvordan står det egentlig til med Danmarks indsats på Agenda 21- området ?
+<br>
+Øko-Info ser nærmere på spørgsmålet i denne måneds tema
+<br>
+<br>
+<a href="#">Læs temaet her</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr> 
+<td background="/shared/graphics/layout/dots_horz.gif" height="1" colspan="3"><img src="/shared/graphics/spacer.gif" width="3" height="1"></td>
+</tr>
+</table>

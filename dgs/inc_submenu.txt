@@ -1,0 +1,1 @@
+<img src="/shared/graphics/spacer.gif" width="5" height="10"><a href="list.asp?sektion=dgs&new=14">Nyt i De Gr&oslash;nne Sider</a> | <a href="catlist.asp">Kategori-oversigt</a> | <a href="sbjlist.asp">Emneords-oversigt</a> | <a href="/dgs/stopped_list.asp">Oph&oslash;rte</a>

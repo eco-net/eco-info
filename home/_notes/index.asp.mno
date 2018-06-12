@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsAfstemning" value="name:id;datatype:int,name:forslag;datatype:varchar,name:stemmer;datatype:int,name:descr;datatype:varchar,name:name;datatype:varchar" />
+	<infoitem key="UD_rsTema" value="name:name;datatype:varchar" />
+</info>

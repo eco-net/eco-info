@@ -1,0 +1,56 @@
+<!--#include virtual="/log/ei/dgs/org_count.asp"-->
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="/shared/graphics/layout/header_arrows.gif" width="22" height="22"></td>
+<td width="98%" class="sidebarHeader">&nbsp;&nbsp;SEKTIONER</td>
+</tr>
+<tr> 
+<td colspan="2" height="1" background="/shared/graphics/layout/dots_horz.gif"><img src="/shared/graphics/spacer.gif" width="3" height="1"></td>
+</tr>
+<tr valign="top"> 
+<td colspan="2" class="sidebarText"> 
+<table width="90%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td><img src="/shared/graphics/spacer.gif" width="3" height="3"></td>
+</tr>
+<tr> 
+<td> 
+<p><span class="sidebarHeader"><a href="/dgs/index.asp">De Gr&oslash;nne Sider</a></span><br>
+S&oslash;g og find i <%=organisations %> gr&oslash;nne adresser og links. De Gr&oslash;nne Sider er det &oslash;kologiske 
+sidestykke til De Gule Sider i telefonbogen og fx Kraks s&oslash;gesider p&aring; 
+Internettet.</p>
+</td>
+</tr>
+<tr> 
+<td><span class="sidebarHeader"><a href="/ok/index.asp"><br>
+&Oslash;ko-kalenderen</a></span><br>
+Danmarks st&oslash;rste elektroniske kalender for gr&oslash;nne og &oslash;kologiske arrangementer.</td>
+</tr>
+<tr> 
+<td> 
+<p><span class="sidebarHeader"><a href="/dgb/index.asp"><br>
+Det Gr&oslash;nne Bibliotek</a></span><br>
+Din elektroniske guide til litteratur og andre medier om &oslash;kologi.<br>
+S&oslash;g i mere end 800 titler.<br>
+</p>
+</td>
+</tr>
+<tr> 
+<td><span class="sidebarHeader"><a href="/opsl/index.asp"><br>
+Opslagstavlen</a></span><br>
+Danmarks gr&oslash;nneste opslagstavle!<br>
+&Oslash;kologisk k&oslash;b, salg og bytte, samt kontakt- og m&oslash;dested for gr&oslash;nne ideer og ydelser.<br>
+</td>
+</tr>
+<tr> 
+<td><span class="sidebarHeader"><a href="/news/index.asp"><br>
+Nyheder</a></span><br>
+Notestof om &oslash;kologi. Sidst nyt om organisationer, personer, publikationer og arrangementer.</td>
+</tr>
+<tr>
+<td><img src="/shared/graphics/spacer.gif" width="3" height="3"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>

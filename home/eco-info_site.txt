@@ -1,0 +1,75 @@
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><p><img src="/shared/graphics/spacer.gif" width="1" height="5"><span class="contentHeader1">&Oslash;ko-info </span><span class="contentHeader2"><a href="http://www.eco-info.dk">eco-info.dk</a></span> </p>
+  <ul>
+    <li><span class="contentHeader2"><a href="index.asp">Forside</a></span>      <ul>
+        <li><span class="contentHeader2"><a href="/dgs/index.asp">De Gr&oslash;nne Sider</a></span> <span class="sitetag">gr&oslash;nne organisationer</span>          
+          <ul>
+            <li><a href="/dgs/catlist.asp">Kategorier</a></li>
+            <li><a href="/dgs/list.asp">S&oslash;gbar liste</a> </li>
+            <li>Detaljer <span class="sitetag">om en organistation</span> </li>
+            <li><a href="/dgs/sbjlist.asp">Emneord</a></li>
+            <li><a href="/dgs/stopped_list.asp">Oph&oslash;rte</a> organisationer</li>
+            </ul>
+        </li>
+        <li><span class="contentHeader2"><a href="/ok/index.asp">&Oslash;ko-Kalenderen</a> </span><span class="sitetag">gr&oslash;nne arrangementer</span>
+          <ul>
+            <li><a href="/ok/catlist.asp">Kategorier</a></li>
+            <li><a href="/ok/list.asp">S&oslash;gbar liste</a></li>
+            <li>Detaljer <span class="sitetag">om et arrangement </span></li>
+          <li><a href="/ok/sbjlist.asp">Emneord</a></li>
+          <li><span class="contentHeader2"><a href="/kurser/index.asp">Kursus-Kalender</a></span> <span class="sitetag">gr&oslash;nne kurser</span>            <ul>
+                    <li><a href="/kurser/list.asp">S&oslash;gbar liste</a></li>
+                    <li>Detaljer <span class="sitetag">om et kursus </span></li>
+            </ul>
+          </li>
+        </ul>
+        </li>
+        <li><span class="contentHeader2"><a href="/dgb/index.asp">Det Gr&oslash;nne Bibliotek</a></span> <span class="sitetag">omtaler af gr&oslash;nne publikationer</span>          <ul>
+            <li><a href="/dgb/list.asp">S&oslash;gbar liste</a> </li>
+            <li>Detaljer om en publikation</li>
+            <li><a href="/dgb/catlist.asp">Kategorier</a></li>
+            <li><a href="/dgb/sbjlist.asp">Emneord</a></li>
+            <li><span class="contentHeader2"><a href="/art/index.asp">Artikler</a></span> <span class="sitetag">om &oslash;kologi og milj&oslash;</span>                
+                <ul>
+                  <li><a href="/art/list.asp">S&oslash;gbar liste</a></li>
+                  <li>Artiklen</li>
+                </ul>
+            </li>
+        </ul>
+        </li>
+          <li><span class="contentHeader2"><a href="/opsl/index.asp">Opslagstavlen</a></span> <span class="sitetag">bruger til bruger service</span>                  
+                                    <ul>
+                                      <li><a href="/opsl/catlist.asp">Kategorier</a></li>
+                                      <li><a href="/opsl/list.asp">S&oslash;gbar liste</a></li>
+                                      <li>Opslaget</li>
+                                      <li><a href="/opsl/new.asp">Nyt opslag </a></li>
+                                    </ul>
+          </li>
+          <li><span class="contentHeader2"><a href="/news/index.asp">Aktuelt</a></span> <span class="sitetag">gr&oslash;nne nyheder</span>              
+              <ul>
+                <li><a href="/news/list.asp">S&oslash;gbar liste</a></li>
+                <li>Nyheden</li>
+              </ul>
+          </li>
+          <li><span class="contentHeader2"><a href="index.asp">Om &Oslash;ko-info</a></span> <span class="sitetag">og &Oslash;ko-net</span>                  
+                                      <ul>
+                                            <li><a href="about_1.asp">Om os</a></li>
+                                            <li><a href="about_2.asp">Vision og mission</a></li>
+                                            <li><a href="about_3.asp">Sekretariatet / kontakt</a></li>
+                                            <li><a href="about_4.asp">Sponsorater</a></li>
+                                            <li><a href="about_5.asp">Bestyrelse</a></li>
+                                      </ul>
+          </li>
+          <li><span class="contentHeader2">&Oslash;vrigt</span>
+                                    <ul>
+                                      <li><span class="contentHeader2"><a href="vinduesside.asp">Vinduet</a></span> <span class="sitetag">aktuelt emne</span></li>
+                                      <li><a href="searching.asp">S&oslash;getips</a> </li>
+                                      <li><a href="advertising.asp">For annonc&oslash;rer</a> </li>
+                                    </ul>
+          </li>
+          </ul>
+      </li>
+    </ul>  </td>
+</tr>
+</table>

@@ -1,0 +1,54 @@
+
+<table width="750" border="0" cellspacing="0" cellpadding="0" name="Header">
+<form name="headerform" method="post" action="/home/searchall.asp" onSubmit="doSearch(document.headerform);">
+<tr> 
+<td valign="top" rowspan="3"><img src="/shared/graphics/logo.gif" alt="&Oslash;ko-info er Danmarks &oslash;kologiske portal, med alt om &oslash;kologi, milj&oslash; og b&aelig;redygtig udvikling." width="180" height="33"> 
+<table width="180" border="0" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<td width="8"><br>
+</td>
+<td class="sitetag"> Guide til det gr&oslash;nne Danmark - vejen til &oslash;kologisk information!<br>
+</td>
+<td width="8"><br>
+</td>
+</tr>
+</table></td>
+<td valign="top" width="1"><br>
+</td>
+<td height="17" align="right" colspan="3"> <a href="/home/index.asp">Forside</a> 
+| <a href="/home/about_1.asp">Om Øko-info</a> | <a href="/home/searching.asp">S&oslash;getips</a> 
+| <a href="/home/advertising.asp">For annonc&oslash;rer</a> | <a href="/home/insider.htm">Kom 
+med i De Gr&oslash;nne Sider</a> </td>
+</tr>
+<tr> 
+<td valign="top" rowspan="2" width="1" background="/shared/graphics/layout/dots_vert.gif"><br>
+</td>
+<td background="/shared/graphics/layout/dots_horz.gif" height="1" colspan="3"><img src="/shared/graphics/spacer.gif" width="3" height="1"></td>
+</tr>
+<tr> 
+<td width="388" height="64"> 
+<div align="center">
+<!--#include virtual="/log/ei/banner.asp"-->
+</div>
+</td>
+<td background="/shared/graphics/layout/dots_vert.gif" width="1"><br>
+</td>
+<td width="180" align="center" valign="top" background="/shared/graphics/layout/search_bkgrd.gif"> 
+<table width="150" border="0" cellspacing="0" cellpadding="0" background="/shared/graphics/spacer.gif">
+<tr> 
+<td><span class="formLabeltext">S&oslash;g i</span> 
+<select name="thesection" class="formInputobject">
+<option value="2">De Gr&oslash;nne Sider</option>
+<option value="3">&Oslash;ko-kalenderen</option>
+<option value="4">Det Gr&oslash;nne Bibliotek</option>
+<option value="5">Opslagstavlen</option>
+</select>
+<span class="formLabeltext">... efter ordet</span> 
+<input type="text" name="thetext" class="formInputobject" value="<skriv tekst og tast enter>" onFocus="this.value=''" onChange="doSearch(document.headerform);document.headerform.submit();" size="20">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</form>
+</table>

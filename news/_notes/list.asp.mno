@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsPageData" value="name:Artikel_ID;datatype:int,name:CreateDate;datatype:smalldatetime,name:DeleteDate;datatype:smalldatetime,name:Header;datatype:varchar,name:ShortDescription;datatype:varchar,name:Country_ID;datatype:smallint,name:Medarbejder_ID;datatype:int,name:FileName;datatype:varchar,name:Content;datatype:varchar,name:StartDate;datatype:smalldatetime,name:EndDate;datatype:smalldatetime,name:Approved;datatype:tinyint,name:Sektion_ID;datatype:smallint,name:ArtikelCategory_ID;datatype:int,name:img_id;datatype:int,name:linktext;datatype:varchar" />
+</info>

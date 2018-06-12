@@ -1,0 +1,16 @@
+document.write('<option value="0" selected>&lt;V&aelig;lg&gt;</option>');
+document.write('<option value="10">Kommende arrangementer</option>');
+document.write('<option value="20">Afholdte arrangementer</option>');
+document.write('<option value="2002-12-01">December 2002</option>');
+document.write('<option value="2003-01-01">Januar 2003</option>');
+document.write('<option value="2003-02-01">Februar 2003</option>');
+document.write('<option value="2003-03-01">Marts 2003</option>');
+document.write('<option value="2003-04-01">April 2003</option>');
+document.write('<option value="2003-05-01">Maj 2003</option>');
+document.write('<option value="2003-06-01">Juni 2003</option>');
+document.write('<option value="2003-07-01">Juli 2003</option>');
+document.write('<option value="2003-08-01">August 2003</option>');
+document.write('<option value="2003-09-01">September 2003</option>');
+document.write('<option value="2003-10-01">Oktober 2003</option>');
+document.write('<option value="2003-11-01">November 2003</option>');
+document.write('<option value="2003-12-01">December 2003</option>');

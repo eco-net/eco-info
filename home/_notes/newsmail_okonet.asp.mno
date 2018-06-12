@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_requestCount" value="10" />
+	<infoitem key="UD_Request1" value="step" />
+	<infoitem key="UD_Request2" value="tmail" />
+	<infoitem key="UD_Request3" value="tstreet" />
+	<infoitem key="UD_Request4" value="tzip" />
+	<infoitem key="UD_Request5" value="tcity" />
+	<infoitem key="UD_Request6" value="cmail" />
+	<infoitem key="UD_Request7" value="cmember" />
+	<infoitem key="UD_Request8" value="cmag" />
+	<infoitem key="UD_Request9" value="tfname" />
+	<infoitem key="UD_Request10" value="tlname" />
+</info>

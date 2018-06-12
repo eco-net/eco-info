@@ -1,0 +1,1 @@
+<img src="/shared/graphics/spacer.gif" width="5" height="10"><a href="/dgb/list.asp?sektion=dgb&new=14">Nyt i Det Gr&oslash;nne Bibliotek</a> | <a href="/dgb/catlist.asp">Kategorier i Det Grønne Bibliotek</a> | <a href="/dgb/sbjlist.asp">Emneord i Det Grønne Bibliotek</a> | <a href="index.asp">ARTIKLER</a>

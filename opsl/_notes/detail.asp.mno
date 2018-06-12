@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsPageData" value="name:id;datatype:int,name:title;datatype:varchar,name:subtitle;datatype:varchar,name:shortdescription;datatype:varchar,name:description;datatype:varchar,name:startdate;datatype:smalldatetime,name:enddate;datatype:smalldatetime,name:fulladdress;datatype:varchar,name:postnr;datatype:smallint,name:amtnr;datatype:smallint,name:komnr;datatype:smallint,name:emailaddress;datatype:varchar,name:www;datatype:varchar,name:phone;datatype:varchar,name:monthstart;datatype:smallint,name:monthend;datatype:smallint,name:weekstart;datatype:smallint,name:weekend;datatype:smallint,name:validated;datatype:smallint,name:createdate;datatype:smalldatetime,name:modidate;datatype:smalldatetime,name:varfmpid;datatype:varchar" />
+</info>
